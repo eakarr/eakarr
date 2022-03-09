@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Emir!</h1>
 <h3 align="center">I'm a curious Jr. Front-End Developer.</h3>
 
-- 🔭 I’m currently working on **Customizable Flair Generator**
+- I’m currently working on **Customizable Flair Generator**
 
-- 🌱 I’m currently learning **ReactJS, CSS**
+- I’m currently learning **ReactJS, CSS**
 
-- 👨‍💻 All of my projects are available at my github profile
+- All of my projects are available at my github profile
 
-- 💬 Ask me about **JavaScript, HTML**
+- Ask me about **JavaScript, HTML**
 
-- 📫 How to reach me **eaakar.55@gmail.com**
+- How to reach me **eaakar.55@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/emir-akar-256120215/](https://www.linkedin.com/in/emir-akar-256120215/)
+- Know about my experiences [https://www.linkedin.com/in/emir-akar-256120215/](https://www.linkedin.com/in/emir-akar-256120215/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
