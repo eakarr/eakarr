@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eakarr](https://github.com/eakarr)
+- 👨‍💻 All of my projects are available at my github profile
 
 - 💬 Ask me about **JavaScript, HTML**
 
