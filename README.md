@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emir!</h1>
+<h1 align="center">Hi there, I'm Emir!</h1>
 <h3 align="center">I'm a curious Jr. Front-End Developer.</h3>
 
 - 🔭 I’m currently working on **Customizable Flair Generator**
