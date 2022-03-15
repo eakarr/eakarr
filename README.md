@@ -5,7 +5,7 @@
 
 - I’m currently learning **ReactJS, CSS**
 
-- All of my projects are available at my github profile
+- All of my projects are available on my github profile
 
 - Ask me about **JavaScript, HTML**
 
