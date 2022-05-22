@@ -7,6 +7,8 @@
 
 - All of my projects are available on my github profile
 
+- My portfolio is vailable: https://emirakar.surge.sh/
+
 - Ask me about **JavaScript, HTML**
 
 - How to reach me **eaakar.55@gmail.com**
