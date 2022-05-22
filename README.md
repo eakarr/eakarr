@@ -7,7 +7,7 @@
 
 - All of my projects are available on my github profile
 
-- My portfolio is vailable: https://emirakar.surge.sh/
+- My portfolio is available: https://emirakar.surge.sh/
 
 - Ask me about **JavaScript, HTML**
 
