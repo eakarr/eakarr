@@ -9,7 +9,7 @@
 
 - How to reach me **eaakar.55@gmail.com**
 
-- Know about my experiences [https://www.linkedin.com/in/emir-akar-256120215/](https://www.linkedin.com/in/emir-akar/)
+- Know about my experiences [https://www.linkedin.com/in/emir-akar/](https://www.linkedin.com/in/emir-akar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
